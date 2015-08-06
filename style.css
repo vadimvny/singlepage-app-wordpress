@@ -1,0 +1,10 @@
+/* 
+Theme name: Lander page for Simone
+Description: Child theme for a single page application
+Author: Vadim Volovodovskiy
+Version: 0.1
+Template: simone
+*/
+
+@import url('../simone/style.css');
+
